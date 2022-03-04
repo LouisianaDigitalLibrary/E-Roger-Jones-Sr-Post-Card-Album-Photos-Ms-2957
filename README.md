@@ -1,5 +1,5 @@
 # E. Roger Jones, Sr. Post Card Album Photos (LSU Mss. 2957)
-Descriptive metadata from the E. Roger Jones, Sr. Post Card Album Photos held at LSU and available through the Louisiana Digital Library.
+Descriptive metadata from the E. Roger Jones, Sr. Post Card Album Photos held at LSU and available through the Louisiana Digital Library. See the collection in the Louisiana Digital Library: https://louisianadigitallibrary.org/islandora/object/lsu-sc-jonespostcards:collection
 
 ## About the archival collection
 Summary: The E. Roger Jones, Sr. Post Card Album Photos are copy prints of postcards illustrating scenes in Alexandria, La.; Biloxi, Miss.; Gloster, Miss.; New Orleans, La.; and Plaquemine, La.
